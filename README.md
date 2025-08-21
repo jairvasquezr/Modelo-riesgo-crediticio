@@ -17,7 +17,6 @@ Los resultados indican que el modelo **Random Forest** entrenado con datos **bal
 
 ## 📁 Estructura del proyecto
 - `notebook.ipynb`: Análisis principal y desarrollo del modelo
-- `requirements.txt`: Lista de dependencias necesarias
 
 ## 🚀 Autor
 **Jair Fernando Vasquez Ramos**  
